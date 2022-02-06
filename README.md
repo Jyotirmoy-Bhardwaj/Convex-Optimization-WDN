@@ -9,3 +9,7 @@ This work demonstrates how one can obtain a feasible solution to water distribut
 
 ## License
 The project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+ ## Citing Work
+
+* **Bragalli, Cristiana, et al. **. *On the optimal design of water distribution networks: a practical MINLP approach.*. Optimization and Engineering 13.2 (2012): 219-246. https://link.springer.com/article/10.1007/s11081-011-9141-7
